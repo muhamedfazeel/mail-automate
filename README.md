@@ -1,6 +1,6 @@
 # Node.js Application for Sending Email to a Bulk Audience
 
-## Author: <a href='https://github.com/fazeel642'>Fazeel</a>
+## Author: <a href='https://github.com/muhamedfazeel'>Muhamed Fazeel</a>
 
 This Node.js application allows you to send emails to a bulk audience using the provided CSV file and email template.
 
