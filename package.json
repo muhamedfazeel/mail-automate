@@ -13,7 +13,7 @@
         "csv-reader": "^1.0.12",
         "dotenv": "^16.3.1",
         "googleapis": "^123.0.0",
-        "nodemailer": "^6.9.4",
+        "nodemailer": "^7.0.9",
         "nodemailer-plugin-inline-base64": "^2.1.1"
     }
 }
